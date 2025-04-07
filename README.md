@@ -33,7 +33,7 @@ git clone https://github.com/AnshulPatil2911/Content-based-recommendation-system
 
 5. **Before running the notebook ensure that the csv path are correctly provided in the notebook**
 
-6. **In order to view the report navigate to the Report directory
+6. **In order to view the report navigate to the Report directory**
    ```bash
    cd project/Report
    ```
