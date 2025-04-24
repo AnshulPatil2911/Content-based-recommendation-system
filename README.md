@@ -20,7 +20,7 @@ git clone https://github.com/AnshulPatil2911/Content-based-recommendation-system
    ```
 
 ### Running the notebook
-1. **Navigate to the Data directory*
+1. Navigate to the Data directory
 
    ```bash
    cd project/Data
