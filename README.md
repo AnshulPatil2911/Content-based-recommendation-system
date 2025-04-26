@@ -19,7 +19,7 @@ git clone https://github.com/AnshulPatil2911/Content-based-recommendation-system
    pip install -r requirements.txt
    ```
 
-### Running the notebook
+### Running the notebook to train the models
 1. Navigate to the Data directory
 
    ```bash
@@ -28,14 +28,37 @@ git clone https://github.com/AnshulPatil2911/Content-based-recommendation-system
 2. Load all the csv files from the drive path provided in the data_path text file
 
 3. The csv files in the drive are preprocessed file, store them in a directory, please maintain the following folder structure
+   
    ![image](https://github.com/user-attachments/assets/48267aa4-06fa-46a7-adc1-2931b404c41f)
 
 4. Now you can directly run the Feature_engineering.ipynb in order to get the personalized recommendations
 
 5. Before running the notebook ensure that the csv path are correctly provided in the notebook
 
-6. In order to view the report navigate to the Report directory
+### Running the streamlit app
+
+1. Navigate to the Data directory
+
+   ```bash
+   cd project/Notebook
+   ```
+2. Ensure that the pkl files generated after running the Feature_engineering.ipynb is in the same directory as the app.py.
+
+3. Run the app.py to launch the streamlit application(recommendation system dashboard)
+    ```bash
+   jupyter app.py 
+   ```
+
+### Accessing the report files
+
+1. In order to view the final report navigate to the Report directory
    ```bash
    cd project/Report
    ```
-7. The report contains the step followed for recommendations for all the approaches, feature engineering, feature selection, model training and results interpretation
+2. The report (Final_report.pdf) contains the step followed for recommendations for all the approaches, feature engineering, feature selection, model training and results interpretation
+
+### Accessing the video demonstration
+1. 1. In order to view the final report navigate to the Report directory
+   ```bash
+   cd project/Video_demonstration
+   ```
