@@ -55,7 +55,7 @@ git clone https://github.com/AnshulPatil2911/Content-based-recommendation-system
    ```bash
    cd project/Report
    ```
-2. The report (Final_report.pdf) contains the step followed for recommendations for all the approaches, feature engineering, feature selection, model training and results interpretation
+2. The report (Final_report.pdf) contains the step followed for recommendations for all the approaches, feature engineering, feature selection, model training, results interpretation, test evaluation and tool explanation
 
 ### Accessing the video demonstration
 1. 1. In order to view the final report navigate to the Report directory
