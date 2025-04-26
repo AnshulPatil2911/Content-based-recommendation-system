@@ -25,15 +25,16 @@ git clone https://github.com/AnshulPatil2911/Content-based-recommendation-system
    ```bash
    cd project/Data
    ```
-2. **Load all the csv files from the drive path provided in the data_path text file**
+2. Load all the csv files from the drive path provided in the data_path text file
 
-3. **The csv files in the drive are preprocessed file, store them in a directory**
+3. The csv files in the drive are preprocessed file, store them in a directory, please maintain the following folder structure
+   ![image](https://github.com/user-attachments/assets/48267aa4-06fa-46a7-adc1-2931b404c41f)
 
-4. **Now you can directly run the Feature_engineering.ipyn in order to get the personalized recommendations**
+4. Now you can directly run the Feature_engineering.ipynb in order to get the personalized recommendations
 
-5. **Before running the notebook ensure that the csv path are correctly provided in the notebook**
+5. Before running the notebook ensure that the csv path are correctly provided in the notebook
 
-6. **In order to view the report navigate to the Report directory**
+6. In order to view the report navigate to the Report directory
    ```bash
    cd project/Report
    ```
