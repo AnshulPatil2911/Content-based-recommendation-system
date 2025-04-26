@@ -46,7 +46,7 @@ git clone https://github.com/AnshulPatil2911/Content-based-recommendation-system
 
 3. Run the app.py to launch the streamlit application(recommendation system dashboard)
     ```bash
-   jupyter app.py 
+   python app.py 
    ```
 
 ### Accessing the report files
